@@ -6,12 +6,13 @@
 
 <h3 align="center">🎓 Studying Computer Science at <a href="https://www.tu-sofia.bg">Technical University of Sofia</a></h3>
 
-<img style="inline-block" height="35" src="./svg/c-sharp.svg" alt="C#">
-<img style="inline-block" height="35" src="./svg/c-plusplus.svg" alt="C++">
-<img style="inline-block" height="35" src="./svg/python.svg" alt="Python">
-<img style="inline-block" height="35" src="./svg/php.svg" alt ="PHP">
-<img style="inline-block" height="35" src="./svg/sqlite.svg" alt="SQLite>
-
+<div>
+  <img style="display: inline-block;" height="35" src="./svg/c-sharp.svg" alt="C#">
+  <img style="display: inline-block;" height="35" src="./svg/c-plusplus.svg" alt="C++">
+  <img style="display: inline-block;" height="35" src="./svg/python.svg" alt="Python">
+  <img style="display: inline-block;" height="35" src="./svg/php.svg" alt ="PHP">
+  <img style="display: inline-block;" height="35" src="./svg/sqlite.svg" alt="SQLite">
+</div>
 <div align="center">
   <img src="https://github-readme-stats-lake-eta.vercel.app/api?username=vpatrikov&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" width="47%" /> 
   <img src="https://github-readme-stats-lake-eta.vercel.app/api/top-langs/?username=vpatrikov&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
