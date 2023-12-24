@@ -6,11 +6,11 @@
 
 <h3 align="center">🎓 Studying Computer Science at <a href="https://www.tu-sofia.bg">Technical University of Sofia</a></h3>
 
-<code><img height="35" src="./svg/c-sharp.svg" alt="C#"></code>
-<code><img height="35" src="./svg/c-plusplus.svg" alt="C++"></code>
-<code><img height="35" src="./svg/python.svg" alt="Python"></code>
-<code><img height="35" src="./svg/php.svg" alt ="PHP"></code>
-<code><img height="35" src="./svg/sqlite.svg" alt="SQLite"></code>
+<code><img height="35" src="./svg/c-sharp.svg" alt="C#">
+<img height="35" src="./svg/c-plusplus.svg" alt="C++">
+<img height="35" src="./svg/python.svg" alt="Python">
+<img height="35" src="./svg/php.svg" alt ="PHP">
+<img height="35" src="./svg/sqlite.svg" alt="SQLite"></code>
 
 
 
@@ -28,7 +28,7 @@
   <h4>🔗 Let's Connect!</h4>
   <a href="mailto:vladimir.n.patrikov@gmail.com">Email</a>
 </div>
-
+<br>
 <div align="center">
   <footer>
     © 2023 Vladimir Patrikov
