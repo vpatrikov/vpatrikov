@@ -29,7 +29,7 @@
 <br>
 <div align="center">
   <footer>
-    © 2023 Vladimir Patrikov
+    © 2024 Vladimir Patrikov
   </footer>
 </div>
 
