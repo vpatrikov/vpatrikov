@@ -13,13 +13,14 @@
   <img style="display: inline-block;" height="35" src="./svg/php.svg" alt ="PHP">
   <img style="display: inline-block;" height="35" src="./svg/sqlite.svg" alt="SQLite">
 </div>
+
 <div align="center">
-  <img src="https://github-readme-stats-lake-eta.vercel.app/api?username=vpatrikov&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" width="47%" /> 
-  <img src="https://github-readme-stats-lake-eta.vercel.app/api/top-langs/?username=vpatrikov&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vpatrikov&theme=tokyonight&&hide_border=true"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vpatrikov&layout=compact&langs_count=8&card_width=320&theme=tokyonight&&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vpatrikov&theme=tokyonight&hide_border=true&border_radius=5" width="47%" />
+  <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=tokyonight&hide_border=true&border_radius=5"/ width=45%>
 </div>
 
 <div align="center">
